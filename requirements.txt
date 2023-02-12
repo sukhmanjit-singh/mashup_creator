@@ -1,0 +1,5 @@
+pydub==0.25.1
+pytube==12.1.2
+streamlit==1.18.1
+ffmpeg==2.8.21
+ffprobe==4.4.1
